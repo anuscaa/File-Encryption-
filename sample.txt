@@ -1,0 +1,25 @@
+# 🔐 File Encryption App (Caesar Cipher)
+
+This is a simple Python-based encryption tool using the Caesar Cipher algorithm. It allows you to securely encrypt and decrypt files with a custom numeric key.
+
+## Features
+- Encrypt text files using Caesar Cipher
+- Decrypt previously encrypted files
+- Input your own key for encryption and decryption
+
+## How to Use
+1. Run the script: `python file_encryptor.py`
+2. Choose E for encryption or D for decryption
+3. Enter file path and key
+4. Encrypted or decrypted file will be saved in the same directory
+
+## Technologies Used
+- Python (Standard Libraries Only)
+
+## Example
+- Original file: `sample.txt`
+- Encrypted file: `sample.txt.enc`
+- Decrypted file: `sample.txt.dec`
+
+## Author
+Anuska Dutta
